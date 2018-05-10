@@ -1,0 +1,10 @@
+//Create a file with ".babelrc" in your working reposiotry and add the following script in the file !!
+
+{
+ "presets": [
+  "es2015"
+  "stage-0"
+ ]
+}
+
+// This file will make sure that your DOM understands your script file no matter if your DOM does not support the new script file.
